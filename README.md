@@ -36,7 +36,7 @@ It includes all necessary `require()` statements that indicate which packages ne
 ## 🔥 Tech Stack Used
 - **Frontend**: React, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB, MySQL
 
 ## 🚀 Running the Project
 
