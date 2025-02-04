@@ -2,7 +2,7 @@
 
 ## 👋 Welcome!
 Hi, I'm **Ashrarul Haque**, pursuing **MERN Stack Development**, passionate about coding and always eager to learn new technologies. 
-This repository contains a full-stack project, but please note that **`node_modules` is not included** to keep the repository clean. 
+This repository contains a different project based on HTML, CSS, and Js, but please note that **`node_modules` is not included** to keep the repository clean. 
 You will need to install the required dependencies separately.
 
 ## 🔥 Why Choose Me as a Full Stack Developer?
