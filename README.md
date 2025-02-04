@@ -8,8 +8,8 @@ You will need to install the required dependencies separately.
 ## 🔥 Why Choose Me as a Full Stack Developer?
 - 🚀 **Efficient Problem Solver** – Loves tackling complex coding challenges.
 - 🎨 **Frontend Mastery** – Builds responsive and user-friendly UI/UX.
-- 🔄 **Full-Stack Integration** – Seamlessly connects frontend and backend.
-- 📡 **Database Management** – Experienced with MongoDB, and MySQL.
+- 🔄 **Integration** – Seamlessly connects frontend and backend.
+- 📡 **Database Management** – Handful knowledge of MongoDB, and MySQL.
 - 🎯 **Quick Learner** – Passionate about adapting to new technologies and trends.
 
 
