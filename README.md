@@ -1,18 +1,39 @@
-# Ashrarul's Repository 🚀
+<h1 align="center">Hi 👋, I'm Ashrarul Haque</h1>
+<h3 align="center">Full Stack Developer (MERN / Next.js) from India 🇮🇳</h3>
+
+---
+
 ### 🛠️ Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=EJS&logoColor=white)
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-## 👋 Welcome!
-Hi, I'm **Ashrarul Haque**, pursuing **MERN Stack Development**, passionate about coding and always eager to learn new technologies. 
-This repository contains a different project based on HTML, CSS, and Js, but please note that **`node_modules` is not included** to keep the repository clean. 
-You will need to install the required dependencies separately.
+**Backend & Auth**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=jsonwebtokens)
+
+**Database**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
+
+**Tools & Platforms**  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats
+
+![Ashrarul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrarulhaque&show_icons=true&theme=github_dark&hide=issues&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrarulhaque&layout=compact&theme=github_dark)
+
 
 ## 🔥 Why Choose Me as a Full Stack Developer?
 - 🚀 **Efficient Problem Solver** – Loves tackling complex coding challenges.
@@ -21,53 +42,6 @@ You will need to install the required dependencies separately.
 - 📡 **Database Management** – Handful knowledge of MongoDB, and MySQL.
 - 🎯 **Quick Learner** – Passionate about adapting to new technologies and trends.
 
-
-## 📂 Project Setup
-
-### **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-```
-
-### **2️⃣ Install Required Packages**
-Since the `node_modules` folder is **not uploaded**, you must install the dependencies manually.  
-To do this, run the following command inside the **server-side** folder:
-```sh
-npm install
-```
-This will install all required dependencies based on the `package.json` file.
-
-### **3️⃣ Check Required Packages**
-To know which **npm packages** are required, refer to the **server-side** `index.js` file.  
-It includes all necessary `require()` statements that indicate which packages need to be installed.
-
-## 🔥 Tech Stack Used
-- **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, MySQL
-
-## 🚀 Running the Project
-
-### **For the Server**
-```sh
-cd server
-node index.js
-```
-
-### **For the Client**
-```sh
-cd client
-npm start
-```
-
-## 💡 Notes
-- If you encounter missing module errors, install them manually:
-  ```sh
-  npm install package-name
-  ```
-- Make sure **MongoDB or MySQL is running** before starting the server.
-- Feel free to **contribute**, **suggest improvements**, or **report issues**.
 
 ## 📬 Contact Me
 💼 **Ashrarul Haque**  
