@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashrarul Haque</h1>
 <h3 align="center"><b><i>Full Stack Developer (MERN / Next.js) from India 🇮🇳</i></b></h3>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=36BCF7&center=true&multiline=true&width=650&height=150&lines=Turning+ideas+into+real+products.;Building+clean+and+scalable+apps.;Let's+create+impact+together!" alt="Animated Text" />
-</p>
+</div>
 
 ---
 
