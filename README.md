@@ -125,42 +125,46 @@ I build systems that are:
   </tr>
 </table>
 
----
-
 ## 📊 My Journey
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    ASHRARUL'S TECH JOURNEY                  │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🌱 Foundation        Fast Growth        ⭐ Specialization  │
-│  ├─ Web Dev          ├─ Scaling Systems  ├─ AI Platforms   │
-│  ├─ Backend Basics   ├─ Distributed Arch ├─ SaaS Billing   │
-│  └─ Databases        ├─ Async Patterns   └─ Real-time APIs │
-│                      └─ DevOps & Cloud                      │
-│                                                              │
-│                    4+ Years Experience                      │
-│                     🚀 Still Growing 🚀                     │
-└─────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="33%">
 
-</div>
+### 🌱 Foundation
+Web Development  
+Backend Fundamentals  
+Database Design  
+API Development  
 
----
+</td>
+<td align="center" width="33%">
 
-## 🎯 What I Build
+### 🚀 Growth Phase
+Distributed Systems  
+Async Architectures  
+Cloud & DevOps  
+Performance Optimization  
 
-<div align="center">
+</td>
+<td align="center" width="33%">
 
-| Category | Projects |
-|----------|----------|
-| 🤖 **AI & Voice** | AI Voice Platforms • LLM Orchestration • RAG Systems • Offline-first AI Solutions |
-| 💳 **SaaS & Billing** | Metered Usage Systems • Subscription Platforms • Multi-tenant SaaS • Billing Automation |
-| 📡 **Real-time** | Communication Platforms • Live Collaboration • Event-driven Systems • WebSocket APIs |
-| 🏗️ **Infrastructure** | Distributed Backend Systems • Async Queues • Workflow Engines • Internal Dev Platforms |
+### ⭐ Current Specialization
+AI Voice Platforms  
+SaaS Billing Infrastructure  
+Real-time Communication  
+RAG & LLM Workflows  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**4+ Years of Engineering Experience**  
+Building scalable systems with a strong focus on backend architecture, AI infrastructure, and real-time applications.
 
 </div>
 
@@ -170,9 +174,70 @@ I build systems that are:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpro/?username=ashrarulhaque&label=Profile%20Views&color=0e75b6&style=flat)
-![Years of Experience](https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=flat)
-![Focus](https://img.shields.io/badge/Current%20Focus-Backend%20%26%20AI-blue?style=flat)
+<img src="https://komarev.com/ghpvc/?username=ashrarulhaque&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Specialization-SaaS%20Infrastructure-orange?style=for-the-badge" />
+
+</div>
+
+---
+
+## ⚡ Current Focus Areas
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎯 Primary Focus
+
+AI Voice Infrastructure  
+SaaS Billing at Scale  
+Real-time Communication  
+FastAPI & Async Systems  
+Backend Architecture  
+
+</td>
+<td align="center" width="50%">
+
+### 📚 Currently Exploring
+
+Distributed Systems  
+Cloud-native Architectures  
+Advanced Kubernetes  
+Performance Profiling  
+LLM Workflow Systems  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎨 Visual Showcase
+
+<div align="center">
+
+### 🔄 Development Workflow
+
+| Plan | Design | Develop | Test | Optimize | Deploy |
+|------|------|------|------|------|------|
+| 📋 | 🎯 | 💻 | ✅ | ⚡ | 🚀 |
+
+<br/>
+
+### 🏗️ Architecture Mindset
+
+| Requirements | System Design | Implementation | Monitoring |
+|------|------|------|------|
+| Clarity | Scalability | Quality | Reliability |
 
 </div>
 
@@ -184,64 +249,23 @@ I build systems that are:
 
 ### 📮 Get In Touch
 
-| Channel | Link |
-|---------|------|
-| 📧 **Email** | [dev.ashrarulhaque@gmail.com](mailto:dev.ashrarulhaque@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/ashrarul](https://www.linkedin.com/in/ashrarul) |
-| 💻 **GitHub** | [@ashrarulhaque](https://github.com/ashrarulhaque) |
-
-### 👇 Interested in Collaborating?
-
-```
-✨ Open to:
-  ├─ Freelance Backend Projects
-  ├─ AI/SaaS Consulting
-  ├─ Open Source Contributions
-  └─ Technical Discussions
-```
+| Platform | Link |
+|---|---|
+| 📧 Email | [dev.ashrarulhaque@gmail.com](mailto:dev.ashrarulhaque@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/ashrarul](https://www.linkedin.com/in/ashrarul) |
+| 💻 GitHub | [@ashrarulhaque](https://github.com/ashrarulhaque) |
 
 </div>
 
----
+<br/>
 
-## ⚡ Current Focus Areas
+### 🤝 Open To
 
-<div align="center">
-
-```
-🎯 PRIMARY FOCUS                    📚 LEARNING & EXPLORING
-├─ AI Voice Infrastructure          ├─ Advanced ML Operations
-├─ SaaS Billing at Scale            ├─ Distributed Systems
-├─ Real-time Communication          ├─ Cloud-native Architectures
-├─ FastAPI & Async Excellence       ├─ Advanced Kubernetes
-└─ Backend System Design            └─ Performance Profiling
-```
-
-</div>
-
----
-
-## 🎨 Visual Showcase
-
-<div align="center">
-
-### 🔄 My Development Workflow
-
-```
-PLAN → DESIGN → DEVELOP → TEST → OPTIMIZE → DEPLOY
-  ↓       ↓        ↓        ↓       ↓         ↓
- 📋      🎯       💻      ✅     ⚡       🚀
-```
-
-### 📊 Architecture Mindset
-
-```
-Requirements → System Design → Implementation → Monitoring
-     ↓              ↓                ↓              ↓
-  Clarity      Scalability       Quality      Reliability
-```
-
-</div>
+- Freelance Backend Projects
+- AI & SaaS Consulting
+- Open Source Contributions
+- System Design Discussions
+- Infrastructure & Scaling Challenges
 
 ---
 
@@ -249,12 +273,14 @@ Requirements → System Design → Implementation → Monitoring
 
 ## 🌟 Let's Build Something Amazing Together!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+tomorrow's+AI+and+SaaS+infrastructure+today;Turning+complex+problems+into+elegant+solutions" alt="Closing Message" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+and+SaaS+infrastructure+for+real-world+scale;Turning+complex+engineering+problems+into+elegant+solutions" alt="Closing Message" />
 
-**💪 Always ready for new challenges** | **🚀 Let's create something great** | **⭐ Follow for updates**
+<br/>
 
----
+**💪 Always building** • **🚀 Always learning** • **⚡ Always optimizing**
 
-<sub>Last Updated: May 27, 2026 | Always Learning, Always Building 🔥</sub>
+<br/><br/>
+
+<sub>Last Updated: May 27, 2026</sub>
 
 </div>
