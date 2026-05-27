@@ -1,99 +1,196 @@
 <h1 align="center">Hi 👋, I'm Ashrarul Haque</h1>
-<h3 align="center"><b><i>Full Stack Developer (MERN / Next.js) from India 🇮🇳</i></b></h3>
+
+<h3 align="center">
+  Full Stack Engineer • AI & SaaS Infrastructure Developer • Backend-Focused System Architect
+</h3>
+
+<p align="center">
+  Building scalable AI platforms, SaaS billing systems, and real-time communication infrastructure.
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=36BCF7&center=true&multiline=true&width=650&height=150&lines=Turning+ideas+into+real+products.;Building+clean+and+scalable+webapps.;Let's+create+impact+together!" alt="Animated Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+scalable+AI+and+SaaS+systems.;Designing+backend-heavy+distributed+architectures.;Stripe+Metered+Billing+%7C+FastAPI+%7C+Next.js+%7C+WebRTC.;Real-time+communication+and+RAG+pipeline+engineering.;Turning+complex+problems+into+production-ready+systems." alt="Typing SVG" />
 </div>
-### 🛠️ Tech Stack
 
-#### **Languages**
+---
 
+# 💫 About Me
+
+I’m a Full Stack Engineer with 4+ years of experience building scalable, production-grade systems across AI platforms, SaaS infrastructure, billing systems, and real-time communication applications.
+
+Currently, I work on AI Voice and centralized SaaS billing platforms where I architect:
+
+- Stripe Metered Billing systems
+- Multi-tenant SaaS infrastructure
+- AI-powered voice workflows
+- Real-time communication systems
+- RAG-based AI pipelines
+- Distributed backend architectures
+
+My primary focus is building backend-heavy systems that are scalable, resilient, cost-efficient, and production-ready from day one.
+
+I enjoy solving engineering challenges involving:
+- High-throughput backend systems
+- Usage aggregation pipelines
+- Real-time event orchestration
+- Async processing architectures
+- Distributed infrastructure
+- AI workflow automation
+
+---
+
+# 🚀 Core Expertise
+
+### Backend & Infrastructure
+- FastAPI
+- Node.js
+- Express.js
+- PostgreSQL
+- MongoDB
+- Redis
+- Docker
+- AWS (EC2, ECS, EKS, S3)
+- CI/CD Pipelines
+- WebSockets
+- Async Architectures
+
+### AI & Real-Time Systems
+- WebRTC (LiveKit)
+- RAG Pipelines
+- AI Voice Platforms
+- LLM Workflow Orchestration
+- Prompt Engineering
+- Vector Search
+- Streaming Systems
+
+### SaaS & Billing
+- Stripe Metered Billing
+- Usage Aggregation Systems
+- Subscription Lifecycle Management
+- Multi-tenant SaaS Architecture
+- Billing Automation
+- Event-driven Systems
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Zustand
+- React Query
+- Framer Motion
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-#### **Frontend**
-
+## Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-000000?style=flat&logo=framer)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Radix UI](https://img.shields.io/badge/-Radix%20UI-000?style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000000?style=flat&logo=framer)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat)
 
-#### **Backend & Auth**
-
+## Backend & APIs
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=jsonwebtokens)
-![Bcrypt](https://img.shields.io/badge/-Bcrypt-808080?style=flat)
 
-#### **Database & Cloud**
-
+## Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#### **Deployment & APIs**
+## AI & Real-Time
+![LiveKit](https://img.shields.io/badge/-LiveKit-111827?style=flat)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Google APIs](https://img.shields.io/badge/-Google%20APIs-4285F4?style=flat&logo=google&logoColor=white)
-
-#### **State & Data**
-
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![Date-fns](https://img.shields.io/badge/-date--fns-00C7B7?style=flat)
-
-#### **Tools & Platforms**
-
+## DevOps & Tooling
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint)
-![dotenv](https://img.shields.io/badge/-Dotenv-ECD53F?style=flat)
-![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat)
-
-#### **Utilities & Middleware**
-
-![Passport.js](https://img.shields.io/badge/-Passport.js-34A853?style=flat)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Multer](https://img.shields.io/badge/-Multer-FF8C00?style=flat)
-![Joi](https://img.shields.io/badge/-Joi-6A1B9A?style=flat)
-![cookie-parser](https://img.shields.io/badge/-Cookie%20Parser-000?style=flat)
-![CORS](https://img.shields.io/badge/-CORS-003545?style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-### 💥 Why Work With Me?
+# 🏗️ What I Build
 
-- 🔥 **Passionate Problem Solver** — Enjoys tackling tough challenges and turning them into elegant solutions.
-- ⚡ **Full Stack Expertise** — Strong in both frontend and backend; can take your idea from sketch to launch.
-- 🎨 **Pixel-Perfect UI/UX** — Crafts modern, responsive, and smooth interfaces.
-- 🌐 **Cloud-Ready & API Pro** — Confident with Supabase, Firebase, Google APIs, and cloud deployments on Vercel & Render.
-- 🚀 **Fast Learner & Team Player** — Constantly learning new tech and working collaboratively to achieve big goals.
-
----
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrarulhaque&layout=compact&theme=github_dark)
-
----
-
-## 📬 Contact Me
-
-💼 **Ashrarul Haque**  
-📧 ashrarulhaque0812@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ashrarul)  
-💻 **Passionate Coder | Quick Learner | MERN & Next.js Developer**
+- AI Voice Platforms
+- SaaS Billing Infrastructure
+- Metered Usage Systems
+- Multi-tenant SaaS Applications
+- Real-time Communication Platforms
+- Backend-heavy Distributed Systems
+- RAG-based AI Applications
+- Workflow Automation Systems
+- Offline-first AI Solutions
+- Internal Developer Platforms
 
 ---
 
-🚀 **Happy Coding! See you in the code universe!** 🌟
+# 💡 Engineering Philosophy
+
+I focus on building systems that are:
+
+- Scalable under real-world load
+- Operationally reliable
+- Cost-efficient
+- Developer-friendly
+- Observable and maintainable
+- Production-ready from day one
+
+I care deeply about:
+- System Design
+- Clean Architecture
+- Performance Optimization
+- Reliability Engineering
+- Async & Distributed Systems
+- Developer Experience
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrarulhaque&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrarulhaque&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# 📬 Connect With Me
+
+<p align="left">
+  📧 Email: <b>ashrarulhaque0812@gmail.com</b><br/>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/ashrarul">linkedin.com/in/ashrarul</a>
+</p>
+
+---
+
+# ⚡ Current Focus
+
+- AI Voice Infrastructure
+- SaaS Billing & Metered Usage
+- Distributed Backend Systems
+- FastAPI & Async Architectures
+- Real-time Communication Platforms
+- RAG & LLM Workflow Systems
+
+---
+
+<p align="center">
+  <b>Building scalable systems at the intersection of AI, SaaS, and real-time infrastructure 🚀</b>
+</p>
