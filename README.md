@@ -157,24 +157,10 @@ I care deeply about:
 - Async & Distributed Systems
 - Developer Experience
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrarulhaque&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrarulhaque&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 # 📬 Connect With Me
 
 <p align="left">
-  📧 Email: <b>ashrarulhaque0812@gmail.com</b><br/>
+  📧 Email: <b>dev.ashrarulhaque@gmail.com</b><br/>
   💼 LinkedIn: <a href="https://www.linkedin.com/in/ashrarul">linkedin.com/in/ashrarul</a>
 </p>
 
